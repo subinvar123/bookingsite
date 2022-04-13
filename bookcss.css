@@ -1,0 +1,73 @@
+#mainnavbar .nav-link {
+    color: white;
+}
+body {
+    background: white;
+}
+.navbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+}
+
+.page-footer{
+    background-color: black;
+    color:white;
+}
+#book{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display:flex;
+    justify-content:center;
+}
+.card {
+    width: 20rem;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    transition: all 0.2s linear; 
+}
+}
+.heading{
+    margin-top: 40px;
+
+}
+#brand{
+    color: aqua;
+}
+
+#mainnavbar .nav-link:hover {
+    color: yellowgreen;
+}
+.card:hover{
+    border-color:darkgrey ;
+    background-color:gainsboro ;
+   
+}
+
+.btn{
+    transition: all 0.2s linear; 
+}
+.btn:hover {
+    background-color: white;
+    border-radius: 30px;
+    color:black;
+}
+a {
+    color: #6dd4b1;
+    transition: all 0.2s linear;
+    }
+    a:hover, a:focus {
+    color: #357099;
+    }
+   
+/*#content{
+     margin:auto;
+    margin-top: 250px;
+}
+
+/*#im{width:620px;
+    height:500px;
+    margin:9px;
+    margin-left: 10px;
+   
+}*/
